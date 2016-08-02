@@ -1,1 +1,4 @@
 # TableTopBot
+
+## Slack installation instructions.
+
